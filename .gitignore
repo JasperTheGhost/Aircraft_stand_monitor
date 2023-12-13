@@ -1,0 +1,9 @@
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore Python virtual environment
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
